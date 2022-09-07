@@ -441,11 +441,17 @@ function Charge_label(label) {
 
 	var fichier = sessionStorage.getItem(label);
 
-	// on insère le titre automatiquement pour Ps et Ct (ça simplifie le code pour le sanctoral)
+	// on insère le titre et la psalmodie automatiquement pour Ps et Ct
+	// (ça simplifie le code pour le sanctoral)
 	if (label.search('psaume')>-1) {
 		var label_titre = label.replace("psaume", "titre_psaume");
 		if (fichier.length>0) {
 			$('#'+label_titre).load('psaumes/psaume' + fichier + '_titre.html');
+			var psalmodie = localStorage.getItem('psalmodie')
+			if (psalmodie != "") {
+				var label_psalmodie = label.replace("psaume", "psalmodie_psaume");
+				$('#'+label_psalmodie).html('<img class="psalmodie" src="psaumes/psalmodie/' + psalmodie + '/psaume' + fichier + '_psalmodie.svg" onerror="this.style.display=\'none\'">')
+			}
 			fichier = 'psaumes/psaume'+fichier+'.html';
 		} else {
 			$('#'+label_titre).html('');
@@ -454,6 +460,10 @@ function Charge_label(label) {
 	if (label === 'la_cantique') {
 		if (fichier.length>0) {
 			$('#la_titre_cantique').load('cantiques/AT' + fichier + '_titre.html');
+			var psalmodie = localStorage.getItem('psalmodie')
+			if (psalmodie != "") {
+				$('#la_psalmodie_cantique').html('<img class="psalmodie" src="cantiques/psalmodie/' + psalmodie + '/AT' + fichier + '_psalmodie.svg" onerror="this.style.display=\'none\'">')
+			}
 			fichier = 'cantiques/AT'+fichier+'.html';
 		} else {
 			$('#la_titre_cantique').html('');
@@ -1656,6 +1666,9 @@ function Initialisation_parametres() {
 	if (localStorage.getItem("diocese") === null) {
 		localStorage.setItem('diocese',"");
 	}
+	if (localStorage.getItem("psalmodie") === null) {
+		localStorage.setItem('psalmodie',"");
+	}
 	var taille_texte = localStorage.getItem("taille_texte");
 	$("body").css('font-size', taille_texte);
 	//repeter_antiennes=(localStorage.getItem("repeter_antiennes") === 'true');
@@ -1726,6 +1739,13 @@ function Validation_parametres() {
 	$('#diocese').bind('change', function (event) { 
 		diocese=$('#diocese option:selected').val();
 		localStorage.setItem('diocese', diocese);
+	});
+
+	var psalmodie = localStorage.getItem('psalmodie')
+	$('#psalmodie').val(psalmodie).attr('selected', 'selected');
+	$('#psalmodie').bind('change', function (event) { 
+		psalmodie=$('#psalmodie option:selected').val();
+		localStorage.setItem('psalmodie', psalmodie);
 	});
 
 } // fin de la fonction Validation_parametres()

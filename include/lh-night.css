@@ -133,6 +133,10 @@ p {
 	font-size:0.9em;
 }
 
+.psalmodie {
+	filter: invert(0.75);
+}
+
 p.ref {
 	font-size:0.9em;
 	text-align : right;

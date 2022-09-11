@@ -472,6 +472,10 @@ function Charge_label(label) {
 	if (label === 'v_cantique') {
 		if (fichier.length>0) {
 			$('#v_titre_cantique').load('cantiques/NT' + fichier + '_titre.html');
+			var psalmodie = localStorage.getItem('psalmodie')
+			if (psalmodie != "") {
+				$('#v_refrain_cantique').html('<img class="psalmodie" src="cantiques/refrain/' + psalmodie + '/NT' + fichier + '_refrain.svg" onerror="this.style.display=\'none\'">')
+			}
 			fichier = 'cantiques/NT'+fichier+'.html';
 		} else {
 			$('#v_titre_cantique').html('');

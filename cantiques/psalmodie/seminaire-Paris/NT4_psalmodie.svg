@@ -1,0 +1,260 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="148.69mm" height="21.59mm" viewBox="8.5358 -0.0360 84.6154 12.2865">
+<style text="style/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<line transform="translate(8.5358, 5.7640)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="84.5654" y2="-0.0000"/>
+<line transform="translate(8.5358, 4.7640)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="84.5654" y2="-0.0000"/>
+<line transform="translate(8.5358, 3.7640)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="84.5654" y2="-0.0000"/>
+<line transform="translate(8.5358, 2.7640)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="84.5654" y2="-0.0000"/>
+<line transform="translate(8.5358, 1.7640)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="84.5654" y2="-0.0000"/>
+<rect transform="translate(0.0000, 6.7640)" x="85.9576" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect transform="translate(0.0000, 6.7640)" x="48.0984" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect transform="translate(0.0000, 6.7640)" x="43.6923" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<rect transform="translate(83.9129, 3.7640)" x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(42.7936, 3.7640)" x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(56.4268, 3.7640)" x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(92.5513, 3.7640)" x="0.0000" y="-2.0000" width="0.6000" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(92.0613, 3.7640)" x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:12:67:68">
+<path transform="translate(70.7507, 3.7640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(66.6100, 3.7640)" x="-0.0650" y="1.6861" width="0.1300" height="2.5085" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(67.7842, 3.7640)" x="-0.0650" y="-2.8100" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:16:58:59">
+<text transform="translate(65.2680, 11.7368)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>bé-</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:13:64:65">
+<path transform="translate(66.5450, 5.2640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:12:64:65">
+<path transform="translate(66.5450, 4.2640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(77.2200, 3.7640)" x="-0.0650" y="-2.4781" width="0.1300" height="3.2920" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:16:66:67">
+<text transform="translate(73.6795, 11.7368)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>dans</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:13:70:71">
+<path transform="translate(75.9808, 5.7640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:12:70:71">
+<path transform="translate(75.9808, 4.7640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<path transform="translate(69.7047, 3.7640) scale(0.0040, -0.0040)" d="M-8 375c8 4 17 7 26 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -16 -7 -25 -7s-17 3 -25 7l3 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:13:67:68">
+<path transform="translate(70.7507, 5.7640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(70.8157, 3.7640)" x="-0.0650" y="2.1861" width="0.1300" height="2.3159" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(71.9899, 3.7640)" x="-0.0650" y="-2.8059" width="0.1300" height="2.6198" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:16:62:63">
+<text transform="translate(69.5762, 11.7368)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>nis</tspan>
+</text>
+</a>
+<rect transform="translate(58.0619, 3.7640)" x="-0.0650" y="2.6861" width="0.1300" height="2.1193" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(59.2361, 3.7640)" x="-0.0650" y="-2.8100" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:16:50:51">
+<text transform="translate(55.6614, 11.7368)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>nous</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:13:58:59">
+<path transform="translate(57.9969, 6.2640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:12:58:59">
+<path transform="translate(57.9969, 4.2640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:13:61:62">
+<path transform="translate(62.8001, 5.7640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(62.8651, 3.7640)" x="-0.0650" y="2.1861" width="0.1300" height="2.2761" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(64.0394, 3.7640)" x="-0.0650" y="-2.8100" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:16:55:56">
+<text transform="translate(62.0865, 11.7368)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>as</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:12:61:62">
+<path transform="translate(62.8001, 4.2640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<polygon transform="translate(71.9249, 0.9540)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.8502 0.4200 9.8502 0.8200 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(70.7507, 8.2640)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.8502 0.1100 9.8502 0.5100 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(19.5482, 2.5740)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="8.2455 -0.0100 8.2455 0.3900 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(18.3740, 7.9540)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="8.2455 0.1100 8.2455 0.5100 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(32.6606, 2.5740)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="8.4332 -1.0100 8.4332 -0.6100 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(31.4864, 8.7640)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="8.4332 -0.3900 8.4332 0.0100 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(59.1711, 0.9540)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="8.6381 -0.2000 8.6381 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(57.9969, 8.5740)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="8.6381 -0.8200 8.6381 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:16:71:72">
+<text transform="translate(80.0363, 11.7368)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>le</tspan>
+</text>
+</a>
+<rect transform="translate(80.5759, 3.7640)" x="-0.0650" y="2.6861" width="0.1300" height="2.1219" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(81.7501, 3.7640)" x="-0.0650" y="-2.1941" width="0.1300" height="3.0080" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:13:74:75">
+<path transform="translate(80.5109, 6.2640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:12:74:75">
+<path transform="translate(80.5109, 4.7640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(76.0458, 3.7640)" x="-0.0650" y="2.1861" width="0.1300" height="2.4799" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(86.3669, 3.7640)" x="-0.0650" y="3.2590" width="0.1300" height="2.2410" ry="0.0400" fill="currentColor"/>
+<path transform="translate(88.1293, 7.2640) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(87.6143, 3.7640)" x="-0.0650" y="-3.0000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+<path transform="translate(88.1293, 4.2640) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:16:74:75">
+<text transform="translate(82.7398, 11.7368)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Christ.</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:13:78:79">
+<path transform="translate(86.3019, 6.7640) scale(0.0040, -0.0040)" d="M314 65c0 24 -21 41 -42 41c-4 0 -8 0 -12 -1c-31 -9 -78 -40 -115 -64s-84 -53 -104 -78c-7 -8 -10 -18 -10 -28c0 -24 21 -41 42 -41c4 0 8 0 12 1c31 9 77 40 114 64s84 53 104 78c7 8 11 18 11 28zM262 136c46 0 82 -21 82 -71c0 -19 -4 -39 -10 -57
+c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39 11 57c12 37 31 72 63 94c53 36 114 50 188 50z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:12:78:79">
+<path transform="translate(86.3019, 4.2640) scale(0.0040, -0.0040)" d="M314 65c0 24 -21 41 -42 41c-4 0 -8 0 -12 -1c-31 -9 -78 -40 -115 -64s-84 -53 -104 -78c-7 -8 -10 -18 -10 -28c0 -24 21 -41 42 -41c4 0 8 0 12 1c31 9 77 40 114 64s84 53 104 78c7 8 11 18 11 28zM262 136c46 0 82 -21 82 -71c0 -19 -4 -39 -10 -57
+c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39 11 57c12 37 31 72 63 94c53 36 114 50 188 50z" fill="currentColor"/>
+</a>
+<rect transform="translate(26.5945, 3.7640)" x="-0.0650" y="2.1861" width="0.1300" height="2.3115" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:12:35:36">
+<path transform="translate(31.4864, 6.2640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(27.7687, 3.7640)" x="-0.0650" y="-1.0015" width="0.1300" height="2.8154" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:16:20:21">
+<text transform="translate(24.3647, 11.7368)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>sois-</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:13:32:33">
+<path transform="translate(26.5295, 5.7640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:12:32:33">
+<path transform="translate(26.5295, 5.7640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(36.8289, 3.7640)" x="-0.0650" y="-1.5885" width="0.1300" height="2.9024" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:16:30:31">
+<text transform="translate(34.2786, 11.7368)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>no-</tspan>
+</text>
+</a>
+<path transform="translate(52.7090, 8.7240) scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:12:38:39">
+<path transform="translate(35.5897, 5.2640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(22.1326, 3.7640)" x="-0.0650" y="1.6861" width="0.1300" height="2.6445" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(31.5514, 3.7640)" x="-0.0650" y="2.6861" width="0.1300" height="2.3124" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(32.7256, 3.7640)" x="-0.0650" y="-1.1962" width="0.1300" height="3.5101" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:16:26:27">
+<text transform="translate(30.4484, 11.7368)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>tu,</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:13:35:36">
+<path transform="translate(31.4864, 6.2640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<path transform="translate(9.3358, 4.7640) scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 95 113 164c0 90 -66 179 -173 190c24 -116 46 -231 60 -354zM74 28c0 -135 129 -247 264 -247
+c28 0 55 2 82 6c-14 127 -37 245 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-3 0 -6 1 -9 2c-80 43 -117 115 -117 185c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM335 -262
+c-188 0 -333 172 -333 374c0 177 131 306 248 441c-19 62 -37 125 -45 190c-6 52 -7 104 -7 156c0 115 55 224 149 292c6 5 14 5 20 0c71 -84 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c4 0 9 1 13 1c155 0 256 -128 256 -261
+c0 -76 -33 -154 -107 -210c-22 -17 -47 -28 -73 -36c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-29 -5 -58 -8 -89 -8zM428 916c0 55 -4 79 -20 129c-99 -48 -162 -149 -162 -259
+c0 -74 18 -133 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+<rect transform="translate(18.4390, 3.7640)" x="-0.0650" y="1.6861" width="0.1300" height="2.5063" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(19.6132, 3.7640)" x="-0.0650" y="-1.1885" width="0.1300" height="2.5024" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:16:13:14">
+<text transform="translate(16.9775, 11.7368)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Bé-</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:10:26:27">
+<path transform="translate(14.9571, 3.7640) scale(0.0040, -0.0040)" d="M170 256c-51 0 -53 -44 -53 -102v-14v-15c0 -58 2 -102 53 -102c57 0 61 51 61 117s-4 116 -61 116zM117 266c17 7 34 13 53 13c101 0 170 -44 170 -139s-69 -140 -170 -140c-112 0 -170 124 -170 250c0 128 72 250 190 250c71 0 138 -39 138 -103c0 -36 -29 -66 -65 -66
+s-66 30 -66 66c0 24 39 25 39 49c0 20 -23 31 -46 31c-66 0 -75 -65 -75 -139c0 -24 2 -48 2 -72z" fill="currentColor"/>
+<path transform="translate(14.9058, 5.7641) scale(0.0040, -0.0040)" d="M259 288c27 29 49 62 49 102c0 55 -57 87 -117 87c-47 0 -75 -36 -75 -71c0 -20 10 -40 30 -52zM289 271c55 -31 83 -79 83 -127c0 -73 -66 -144 -189 -144c-94 0 -183 54 -183 140c0 50 39 85 76 120c-41 28 -61 67 -61 106c0 68 61 134 176 134c81 0 161 -38 161 -110
+c0 -47 -30 -85 -63 -119zM106 242c-33 -29 -62 -59 -62 -102c0 -69 66 -117 139 -117c54 0 86 42 86 83c0 24 -10 48 -35 62z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:10:11:12">
+<path transform="translate(12.9558, 3.7640) scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:13:24:25">
+<path transform="translate(18.3740, 5.2640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:12:24:25">
+<path transform="translate(18.3740, 5.2640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(23.3068, 3.7640)" x="-0.0650" y="-1.1038" width="0.1300" height="2.4177" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:16:17:18">
+<text transform="translate(21.5247, 11.7368)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ni</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:13:29:30">
+<path transform="translate(22.0676, 5.2640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:12:29:30">
+<path transform="translate(22.0676, 5.2640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:13:38:39">
+<path transform="translate(35.5897, 6.2640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:13:50:51">
+<path transform="translate(48.4245, 6.7640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:12:50:51">
+<path transform="translate(48.4245, 4.2640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:16:42:43">
+<text transform="translate(47.3523, 11.7368)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>re,</tspan>
+</text>
+</a>
+<rect transform="translate(44.0833, 3.7640)" x="-0.0650" y="3.1861" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
+<path transform="translate(45.7725, 7.2640) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:12:54:55">
+<path transform="translate(52.5790, 4.2640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(52.6440, 3.7640)" x="-0.0650" y="2.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+<path transform="translate(53.8832, 0.8040) scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+<rect transform="translate(53.8182, 3.7640)" x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:16:46:47">
+<text transform="translate(51.2508, 11.7368)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>qui</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:13:54:55">
+<path transform="translate(52.5790, 5.7640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(48.4895, 3.7640)" x="-0.0650" y="3.1861" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(49.6637, 3.7640)" x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:13:41:42">
+<path transform="translate(39.8296, 5.7640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(41.0688, 3.7640)" x="-0.0650" y="-1.9938" width="0.1300" height="2.8077" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:16:34:35">
+<text transform="translate(38.6551, 11.7368)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>tre</tspan>
+</text>
+</a>
+<rect transform="translate(39.8946, 3.7640)" x="-0.0650" y="2.1861" width="0.1300" height="2.6254" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:12:41:42">
+<path transform="translate(39.8296, 4.7640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<rect transform="translate(35.6547, 3.7640)" x="-0.0650" y="2.6861" width="0.1300" height="2.2204" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(45.2575, 3.7640)" x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<path transform="translate(45.7725, 4.2640) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:16:38:39">
+<text transform="translate(42.7584, 11.7368)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Pè-</tspan>
+</text>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:13:45:46">
+<path transform="translate(44.0183, 6.7640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///media/common/Documents/Projets_code/liturgie-des-heures_psaumes/NT4.ly:12:45:46">
+<path transform="translate(44.0183, 4.2640) scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</a>
+</svg>

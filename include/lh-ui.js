@@ -63,7 +63,22 @@ if (office === 'lectures') {
     // on affiche le psaume 94 par défaut
     $('#la_select_inv').val(94).attr('selected', 'selected');
     $('#la_psaume_inv').load('psaumes/psaume94.html');
-		Select_dynamique('#la_select_inv', '#la_psaume_inv', 'psaumes/psaume', '.html');
+
+	// affiche de la psalmodie
+	var psalmodie = localStorage.getItem('psalmodie')
+	if (psalmodie != "") {
+		$('#la_psalmodie_inv').html('<img class="psalmodie" src="psaumes/psalmodie/' + psalmodie + '/psaume94_psalmodie.svg" onerror="this.style.display=\'none\'">')
+	}
+
+	// actualise le psaume invitatoire si la sélection est changée
+	$('#la_select_inv').bind('change', function (event) {
+		var valeur = $('#la_select_inv'+' option:selected').val();
+		$('#la_psaume_inv').load('psaumes/psaume'+valeur+'.html');
+		
+		if (psalmodie != "") {
+			$('#la_psalmodie_inv').html('<img class="psalmodie" src="psaumes/psalmodie/' + psalmodie + '/psaume' + valeur + '_psalmodie.svg" onerror="this.style.display=\'none\'">')
+		}
+	});
   }
 
   if (office === 'milieu') {

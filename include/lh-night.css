@@ -67,6 +67,10 @@ div.picker__holder {
 	padding: 4px;
 }
 
+.cadre_psaume {
+	background: inherit;
+}
+
 @media screen and (max-width: 480px) {
 	.cadre {
 		width:100%;
@@ -134,9 +138,16 @@ p {
 }
 
 .psalmodie {
+	position: sticky;
+	top:0;
+	background: inherit;
+	margin-bottom: 1em;
+	max-width: 100%;
+}
+
+.psalmodie img {
 	filter: invert(0.75);
 	max-width: 100%;
-	margin-bottom: 1em;
 }
 
 p.ref {

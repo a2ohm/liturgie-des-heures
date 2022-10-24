@@ -138,6 +138,7 @@ p {
 }
 
 .psalmodie {
+	text-align: center;
 	position: sticky;
 	top:0;
 	backdrop-filter: blur(8px);

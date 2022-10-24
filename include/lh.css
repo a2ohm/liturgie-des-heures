@@ -143,11 +143,12 @@ p {
 	top:0;
 	background: inherit;
 	margin-bottom: 1em;
-	max-width: 100%;
+	width: 100%;
 }
 
 .psalmodie img {
 	max-width: 100%;
+	margin: 5px auto;
 }
 
 p.ref {

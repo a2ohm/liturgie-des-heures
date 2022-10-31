@@ -141,7 +141,7 @@ p {
 	text-align: center;
 	position: sticky;
 	top:0;
-	backdrop-filter: blur(8px);
+	background: inherit;
 	margin-bottom: 1em;
 	width: 100%;
 }

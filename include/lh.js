@@ -450,7 +450,11 @@ function Charge_label(label) {
 			var psalmodie = localStorage.getItem('psalmodie')
 			if (psalmodie != "") {
 				var label_psalmodie = label.replace("psaume", "psalmodie_psaume");
-				$('#'+label_psalmodie).html('<img src="psaumes/psalmodie/' + psalmodie + '/psaume' + fichier + '_psalmodie.svg" onerror="this.style.display=\'none\'">')
+				if (label.search('la_')>-1) {
+					$('#'+label_psalmodie).html('<img src="partitions/' + psalmodie + '/psaumes/laudes/psaume' + fichier + '_psalmodie.svg" onerror="this.style.display=\'none\'">')
+				} else {
+					$('#'+label_psalmodie).html('<img src="partitions/' + psalmodie + '/psaumes/vepres/psaume' + fichier + '_psalmodie.svg" onerror="this.style.display=\'none\'">')
+				}
 			}
 			fichier = 'psaumes/psaume'+fichier+'.html';
 		} else {
@@ -462,7 +466,7 @@ function Charge_label(label) {
 			$('#la_titre_cantique').load('cantiques/AT' + fichier + '_titre.html');
 			var psalmodie = localStorage.getItem('psalmodie')
 			if (psalmodie != "") {
-				$('#la_psalmodie_cantique').html('<img src="cantiques/psalmodie/' + psalmodie + '/AT' + fichier + '_psalmodie.svg" onerror="this.style.display=\'none\'">')
+				$('#la_psalmodie_cantique').html('<img src="partitions/' + psalmodie + '/AT_psalmodies/AT' + fichier + '_psalmodie.svg" onerror="this.style.display=\'none\'">')
 			}
 			fichier = 'cantiques/AT'+fichier+'.html';
 		} else {
@@ -474,7 +478,7 @@ function Charge_label(label) {
 			$('#v_titre_cantique').load('cantiques/NT' + fichier + '_titre.html');
 			var psalmodie = localStorage.getItem('psalmodie')
 			if (psalmodie != "") {
-				$('#v_refrain_cantique').html('<img src="cantiques/refrain/' + psalmodie + '/NT' + fichier + '_refrain.svg" onerror="this.style.display=\'none\'">')
+				$('#v_refrain_cantique').html('<img src="partitions/' + psalmodie + '/NT_refrains/NT' + fichier + '_refrain.svg" onerror="this.style.display=\'none\'">')
 			}
 			fichier = 'cantiques/NT'+fichier+'.html';
 		} else {

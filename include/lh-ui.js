@@ -67,7 +67,7 @@ if (office === 'lectures') {
 	// affiche de la psalmodie
 	var psalmodie = localStorage.getItem('psalmodie')
 	if (psalmodie != "") {
-		$('#la_psalmodie_inv').html('<img src="psaumes/psalmodie/' + psalmodie + '/psaume94_invit_psalmodie.svg" onerror="this.style.display=\'none\'">')
+		$('#la_psalmodie_inv').html('<img src="partitions/' + psalmodie + '/psaumes/invitatoires/psaume94_psalmodie.svg" onerror="this.style.display=\'none\'">')
 	}
 
 	// actualise le psaume invitatoire si la sélection est changée
@@ -76,7 +76,7 @@ if (office === 'lectures') {
 		$('#la_psaume_inv').load('psaumes/psaume'+valeur+'.html');
 		
 		if (psalmodie != "") {
-			$('#la_psalmodie_inv').html('<img src="psaumes/psalmodie/' + psalmodie + '/psaume' + valeur + '_invit_psalmodie.svg" onerror="this.style.display=\'none\'">')
+			$('#la_psalmodie_inv').html('<img src="partitions/' + psalmodie + '/psaumes/invitatoires/psaume' + valeur + '_psalmodie.svg" onerror="this.style.display=\'none\'">')
 		}
 	});
   }

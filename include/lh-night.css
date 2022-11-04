@@ -142,7 +142,6 @@ p {
 	position: sticky;
 	top:0;
 	background: inherit;
-	margin-bottom: 1em;
 	width: 100%;
 }
 
@@ -150,6 +149,10 @@ p {
 	filter: invert(0.75);
 	max-width: 100%;
 	margin: 5px auto;
+}
+
+.psalmodie+div {
+	margin-top: 1em;
 }
 
 p.ref {

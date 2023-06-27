@@ -230,8 +230,10 @@ Enfin, pour respecter les politiques de sécurité des navigateurs, il faut auss
 
 #### a) Cordova
 Installer Cordova.
-- `sudo apt install nodejs npm`
+- `sudo snap install node --classic`
 - `npm install -g cordova`
+
+**Rmq.** Une version de nodejs supérieure à la version 14 est nécessaire. Sur Ubuntu, la version du snapstore fait l'affaire, voir [nodejs.org](https://nodejs.org/en/download/package-manager) pour trouver ce qui est le plus adapté à votre distribution.
 
 Créer le projet.
 - `cordova create liturgie-des-heures`
